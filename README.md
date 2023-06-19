@@ -7,6 +7,12 @@ The goal of this project is to develop classification model for dataset that hol
 # Dataset:
 https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 
+➢ It contains  2000 sample 
+
+➢ 21 feature and our goal is to predict  a price range indicating how high the price is.
+
+➢ Integer and float datatype
+
 
 
 # Problem Description
@@ -44,6 +50,10 @@ VIII. The attributes that are most correlated with the Price Range ( Our target 
 (5) Naive Bayes
 
 (6) LSVM
+
+# Hyperparameters 
+
+W used GridSearch algorithm to select the best hyperparameters for our models  and get the best result for every model we used .
 
 # Conclusion
 
